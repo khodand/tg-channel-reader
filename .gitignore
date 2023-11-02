@@ -12,10 +12,14 @@
 *.test
 
 # Output of the go coverage tool, specifically when used with LiteIDE
+*.csv
+data/
+data.*
 *.out
 
 # Dependency directories (remove the comment below to include it)
-# vendor/
+vendor/
 
 # Go workspace file
+.idea/
 go.work
