@@ -1,12 +1,3 @@
 {
-  "type": "service_account",
-  "project_id": "tg-audio-bot",
-  "private_key_id": "ef20617d2ff8e0c38f2221a584f1a992e79da3ec",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC+ma77PKMfUdFD\npwTVtoQHmCcU3th9CzrJmaL+KCXV8PRJyGfUrjPPwfh7uDfwkKrr2huT7k+OLRH2\nD3YpOcXe0XIgKihdPJuw5eNSdz+qqXu0a76FwbrfDhJ3TH1vW0e0SD+GlM1DLiTf\nX4J1rDK9sBaDjB8+nzTXinlT1pZQ3khzPPTNJOHKnifftVfIR2dv5MWBUcdbUB7K\nX9pef0ZSnTUUmRx4FlLxeRm0/5mdeQZ5l/hlLrvbp9vh2doZh4Dp2rIaM9ijMwRY\nk6kiGwlx7cZ/LiIvY1vb3Nr4uaQFrQvj7DBZox3P+eezhEHa/ufl+OnRO6RKbEb1\nshBdY31PAgMBAAECggEAEypk/AJm7LlPb5wV0l+d+x2DoIegAULl0GvQhfoHg/HM\nvraWKj6yGwwILniht2D0ru6po0BtY4CIs9NuMEsM6JDrBuz2ThnQFgOnzh0Lm9+a\n/tNuvwhyAAfsN27Lliz5ktlI+gFwenbjYkq6VZbRK13Phb7LTYK4z4uvE40aZFso\n5U7AKG4BCeeXvY1sojIYS90nQSckMRsKWMwEEufMgRvAggKBEsRiqldR8eex2AHR\neG1ornCS9AOaG4+Q1Bk6w0DpUmqtsUWmXA9ToW1S34EsMnzkzPmHe52l3IWVrYae\nAzwz1H1tJqD0Fzr9JVdXQBx6H4PbzLIoYgdE6QopEQKBgQD7hgjJOZ1pidtHJVLe\ndmk485i6Sx1EEJzqAiDcGBLy2ZCydHiX/1OFP/SJas5xT40tBUUh9U0l3d7AkFzl\n1HWdWm4OuggD12edVAMZwX0sQiWS4VSKMicfRp7xhWxakhU9NSTJOm0KIDwIBCfn\nqKEh2Xj2TzgM9gqFQ+KVXgkKjQKBgQDB/hO3EWLlkjy3CjVTpzmHreMJVc+dTzxv\nIuZ3cO0qLq+udDDeZDF2BudNCZCnCLWjwjdKhFfvyDuzKfRufqNz+UFrEvGic97+\n15ekZy771+iwZ8+FbPIZa8mMIkoEGxay38uOkDTZBplUc36toHBlpwrvi7n23v0a\nBlq/lrx+SwKBgQCNQtbWZMRSjLkZeQ3UoT4xXSZOoncaThZCmtVnpyGlQKmygBVm\nkGCQ+r1VHCY7n0kTmt0b2E/uz3AWSD3UWoF/0VT0cmij96tawd9H7NJnM/M0TdcU\nElzEhP4peRzEtTy2do1lcqngwP/WJLdgtOViRGhaNV2ucdSwydKMvxZm1QKBgQCJ\n4cI3i0cErxUycDII/EG6uxA00WYYhHoK7/5pBL29DqPV1kXpu8MgBbYfHl5PKrSX\n6XINJ9Ws21/7byWJ577brl0d8sAGXF8yOSBSPPi7DfIYeCCa0B2fjeoaDUEYe/x9\nNO3krYCyhKs0yEZQuElLJxhxvJl363RwK/YSWNwu0wKBgQCBFrztyJjZkk1HnRDP\nWU9dJXZtSHyD0rHSypFlZnd9lraxj0+vtw2/Kq5kCjIxAmp1Uwk+WxtAIoHWRAvv\nC5YPC1OUj2WcCVsH+8UZmJTSoGNbwAjmNDQJI1FjrghEp8mf68tMvSXCw3YziQaB\n/hwZno7wMxxo6zQnK38HPl76WA==\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-gu17h@tg-audio-bot.iam.gserviceaccount.com",
-  "client_id": "115761420781715945080",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-gu17h%40tg-audio-bot.iam.gserviceaccount.com"
+
 }
